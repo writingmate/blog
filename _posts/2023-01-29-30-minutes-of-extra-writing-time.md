@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Get 30 Minutes of Extra Writing Time With This Chrome Extension"
 ---
 
