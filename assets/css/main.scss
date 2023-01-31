@@ -58,6 +58,11 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 
+.greedy-nav a.site-title {
+  color: $info-color;
+  font-weight: 600;
+}
+
 html {
     font-size: 14px; // change to whatever
   
