@@ -22,10 +22,11 @@ $times: Times, serif !default;
 $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
+$figtree: Figtree, serif !default;
 
-$global-font-family           : $serif !default;
-$header-font-family           : $sans-serif !default;
-$caption-font-family          : $serif !default;
+$global-font-family           : $sans-serif !default;
+$header-font-family           : $figtree !default;
+$caption-font-family          : $sans-serif !default;
 
 /* type scale */
 $type-size-1: 2.441em !default;
