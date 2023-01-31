@@ -1,5 +1,6 @@
 ---
 title: "Get 30 Minutes of Extra Writing Time With This Chrome Extension"
+layout: "single"
 ---
 
 WritingMate.ai Chrome extension is designed to help you save up to 30 minutes on writing-related tasks. This extension can help you save time when writing emails, blog posts, essays, or other personal content, and even when doing work-related tasks such as creating marketing copy, press releases, and more.
