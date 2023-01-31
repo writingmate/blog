@@ -1,7 +1,7 @@
---
+---
 layout: single
 title: "Exploring How Writing Assistant Chat GPT Can Enhance Creative Writing Processes"
---
+---
 
 Creative writing can be a challenge for some people, as there are so many different elements that need to come together in order to create a well-crafted piece of writing. Fortunately, there is a way to enhance the creative writing process and make it easier: Writing Assistant Chat GPT.
 
