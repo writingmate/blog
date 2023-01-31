@@ -15,9 +15,9 @@ remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rewrite - WritingMate.ai blog"
+title                    : "Rewrite"
+subtitle                 : "a WritingMate.ai blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Rewrite"
 description              : "Rewrite Faster with WritingMate.ai."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
